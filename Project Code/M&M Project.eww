@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\M&amp;M Project.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\Module Test Projects\Sensor Test Project\Sensor Test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\Module Test Projects\Servo Test Project\Servo Test.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
